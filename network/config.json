@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Cebral-Loureda, Manuel"
+  },
+  "text": {
+    "more": "Human Flourishing Author Keywords Co-occurrence Network extracted from Scopus data collection by Cebral-Loureda, M. in 2021",
+    "intro": "Data Mining over Scopus Database by Cebral-Loureda 2021",
+    "title": "Autho Keywords Co-Occurrence"
+  },
+  "legend": {
+    "edgeLabel": "Co-occurrence",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Autho Keyword"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 3,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+     "graphProperties": {
+      "maxEdgeSize": 10,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 2,
+      "maxNodeSize": 30
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
