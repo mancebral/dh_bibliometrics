@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Co-occurrence",
     "colorLabel": "Modularity",
-    "nodeLabel": "Autho Keyword"
+    "nodeLabel": "Author Keywords"
   },
   "features": {
     "search": true,
