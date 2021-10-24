@@ -38,7 +38,7 @@
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14,
-      "defaultLabelColor: "#fff",
+      "defaultLabelColor: "#fff"
     },
      "graphProperties": {
       "maxEdgeSize": 10,
